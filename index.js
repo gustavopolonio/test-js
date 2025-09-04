@@ -1,4 +1,4 @@
-const API_URL = "https://68b778c273b3ec66cec4b956.mockapi.io/votes";
+const API_URL = "https://68b993a66aaf059a5b58094a.mockapi.io/votes";
 
 const options = document.querySelectorAll(".option");
 const result = document.querySelector(".results");
